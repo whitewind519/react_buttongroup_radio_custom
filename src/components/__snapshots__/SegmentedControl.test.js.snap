@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders welcome message 1`] = `
+<div
+  class="seg-area"
+>
+  <div
+    class="row"
+  >
+    <div
+      class="col-sm-6 col-12"
+    >
+      <p>
+        Paid for by
+      </p>
+      <div
+        class="btn-group mb-3 btn-group"
+        role="group"
+      >
+        <button
+          class="btn btn-light"
+          type="button"
+        >
+          Client
+        </button>
+        <button
+          class="Valassis btn btn-primary"
+          type="button"
+        >
+          Valassis Digital
+        </button>
+      </div>
+    </div>
+    <div
+      class="col-sm-6 col-12"
+    >
+      <p>
+        Gender
+      </p>
+      <div
+        class="btn-group mb-3 btn-group"
+        role="group"
+      >
+        <button
+          class="btn btn-light"
+          type="button"
+        >
+          All
+        </button>
+        <button
+          class="btn btn-primary"
+          type="button"
+        >
+          Female
+        </button>
+        <button
+          class="btn btn-light"
+          type="button"
+        >
+          Male
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
